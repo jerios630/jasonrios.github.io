@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(42, 165, 79, 0.61);
+}
+
+button {
+    padding:20vw;
+  
+}
+
+button2 {
+    padding:30vw;
+  
+}
+
+button:hover {
+    background-color: rgb(66, 219, 240);
+    opacity: 0;
+}
