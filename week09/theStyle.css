@@ -4,12 +4,14 @@ body {
 
 button {
     padding:20vw;
+    border-radius: 50%;
+    border-width: 10px;
   
 }
 
 button2 {
     padding:30vw;
-    border-radius: 0%;
+    border-radius: 50%;
 
   
 }

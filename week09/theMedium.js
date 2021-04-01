@@ -3,7 +3,7 @@ console.log("the message!");
 // global varialbe are usefull 
 // pass the html elements into their own variable
 let theBody = document.querySelector('body');
-let theButtons = document.querySelector('button');
+let theButton2 = document.querySelector('potato');
 let theButton = document.getElementById('potato');
 let theTxt = document.querySelector('h1');
 // add an event listener to an element
@@ -12,8 +12,9 @@ theButton.addEventListener('click', myGreatFunction);
 
 function myGreatFunction() {
     console.log("clicked!!");
-    theBody.style.backgroundColor = "blue";
+    theBody.style.backgroundColor = "green";
     theTxt.style.textUnderlinePosition;
+
  
 }
 
