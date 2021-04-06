@@ -18,6 +18,13 @@ body {
     width: 100vw;
 }
 
+img {
+    position: absolute;
+    top: 100px%;
+    right: 25%;
+    width: 500px;
+    height: 500px;
+}
 
 #text {
     color: #ffffff;
