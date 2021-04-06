@@ -1,0 +1,49 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: linear-gradient(#000000,#660000) fixed;
+    font-family: 'tradegothiclt-bold', sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 90vh;
+    width: 100vw;
+}
+
+button {
+    font-size: 50px;
+    position: relative;
+    height: 100px;
+    width: 100px;
+    color: white;
+    text-size-adjust: 30px;
+    text-decoration: none;
+    border-radius: 50px;
+    border: solid 5px black;
+    background: red;
+    text-align: center;
+
+}
+
+#block {
+    position: relative;
+    width: auto;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    border: solid 1px rgb(48, 0, 0);
+    background: red;
+    text-align: center;
+}
+
+#text {
+    color: #ffffff;
+}
+
