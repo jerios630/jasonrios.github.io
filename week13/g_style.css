@@ -1,0 +1,11 @@
+body {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(#ffffff, #b1bfff) fixed;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+img {
+    border-radius: 25px;
+    border: solid 1px black;
+}
